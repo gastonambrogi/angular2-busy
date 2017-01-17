@@ -32,8 +32,8 @@
     "test": "NODE_ENV=test webpack --inline --progress --colors --watch --content-base test"
   },
   "dependencies": {
-    "angular2-dynamic-component": "^0.0.50",
-    "ts-metadata-helper": "^0.0.3"
+    "angular2-dynamic-component": "^1.0.0",
+    "ts-metadata-helper": "^0.0.4"
   },
   "devDependencies": {
     "@angular/common": "^2.0.0",
@@ -66,6 +66,6 @@
     "typings": "^0.8.1",
     "webpack": "^1.12.15",
     "webpack-dev-server": "^1.14.1",
-    "zone.js": "^0.6.17"
+    "zone.js": "^0.7.4"
   }
 }
